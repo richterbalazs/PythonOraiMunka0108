@@ -1,0 +1,9 @@
+Programozási tételek:
+
+- minimum keresés
+- maximum keresés
+- megszámlálás
+- összegzés
+- eldöntés
+- lineáris keresés
+- kiválasztás
